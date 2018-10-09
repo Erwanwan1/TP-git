@@ -1,4 +1,6 @@
 ### application.bat - 2018 - Zwick ###
-Copyright company - 2018
-Build : 10:00
-version 1.1.0
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
