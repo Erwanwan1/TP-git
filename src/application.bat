@@ -1,4 +1,4 @@
-### application.bat - 2018 - Zwick ###
+### application.bat - 2018 - Erwan Zwick ###
 version = "2"
 build_hour = "11H00"
 
